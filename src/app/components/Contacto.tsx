@@ -3,7 +3,6 @@ import {
   Container,
   Flex,
   Heading,
-  Icon,
   Link,
   Stack,
   Text,
